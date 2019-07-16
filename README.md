@@ -1,5 +1,9 @@
 # 类脑平台资源检索邮件通知
 
+## Requirement
+
+python2.7 3.5 3.6
+
 ## main.py
 主程序
 
